@@ -19,7 +19,8 @@ public class KDVTutariHesaplama {
         System.out.println("KDV'li Fiyat = " + KDVliFiyat);
 
         /*
-
+        EĞİTİM VİDEOSUNU İZLEMEDEN ÖNCE YAZDIĞIM KOD
+        
         double KDVsizFiyat, KDVliFiyat, KDVTutari;
 
         System.out.print("KDV'siz Fiyat Giriniz : ");
